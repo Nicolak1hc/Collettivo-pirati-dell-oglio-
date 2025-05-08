@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Collettivo Pirati dell’Oglio</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Helvetica Neue', sans-serif;
+      background: #f4f4f4;
+      color: #111;
+    }
+    header {
+      background: url('https://upload.wikimedia.org/wikipedia/commons/3/3d/Fiume_Oglio_%28Brescia%29.jpg') center/cover no-repeat;
+      height: 60vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: white;
+      text-shadow: 2px 2px 8px rgba(0,0,0,0.7);
+    }
+    header h1 {
+      font-size: 2.5rem;
+      text-align: center;
+      padding: 0 20px;
+    }
+    main {
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 20px;
+      background: white;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    .manifesto {
+      font-size: 1.2rem;
+      line-height: 1.6;
+      white-space: pre-wrap;
+    }
+    footer {
+      text-align: center;
+      font-size: 0.9rem;
+      padding: 20px;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Collettivo Pirati dell’Oglio<br>Contro Corrente</h1>
+  </header>
+
+  <main>
+    <section class="manifesto">
+      <p>
+        Sostenerci con una donazione vuol dire credere in una scena libera, indipendente, senza padroni né compromessi.
+        Vuol dire difendere lo spazio per chi balla, crea, lotta.
+        Aiutaci a tenere accesa la fiamma.
+        Donazioni, supporto e complicità sono il carburante della nostra nave.
+        
+        Collettivo Pirati dell’Oglio – Contro Corrente, Sempre
+      </p>
+    </section>
+  </main>
+
+  <footer>
+    &copy; 2025 Collettivo Pirati dell’Oglio. Tutti i diritti riservati.
+  </footer>
+</body>
+</html>
